@@ -1,0 +1,98 @@
+[
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 120,
+        "transactionDate": "2019-05-01"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 75,
+        "transactionDate": "2019-05-21"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 94,
+        "transactionDate": "2019-05-21"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 10,
+        "transactionDate": "2019-06-01"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 75,
+        "transactionDate": "2019-06-21"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 200,
+        "transactionDate": "2019-07-01"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 1,
+        "transactionDate": "2019-07-04"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 80,
+        "transactionDate": "2019-07-03"
+    },
+    {
+        "customerId": 1,
+        "name": "Acme",
+        "amount": 224,
+        "transactionDate": "2019-07-21"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 125,
+        "transactionDate": "2019-05-01"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 75,
+        "transactionDate": "2019-05-21"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 10,
+        "transactionDate": "2019-06-01"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 75,
+        "transactionDate": "2019-06-21"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 200,
+        "transactionDate": "2019-07-01"
+    },
+    {
+        "customerId": 2,
+        "name": "Century",
+        "amount": 224,
+        "transactionDate": "2019-07-21"
+    },
+    {
+        "customerId": 3,
+        "name": "Sallys Startup",
+        "amount": 120,
+        "transactionDate": "2019-06-21"
+    }
+]
